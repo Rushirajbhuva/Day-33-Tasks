@@ -1,0 +1,114 @@
+[{
+  "_id": {
+    "$oid": "63f5bf710b7cad6e08e3083b"
+  },
+  "id": 1,
+  "users": "Rohit",
+  "codekata": "90"
+},{
+  "_id": {
+    "$oid": "63f6450b514a3b288d5a8845"
+  },
+  "name": "sajeed",
+  "id": 2,
+  "Batch": "B40WE",
+  "mentor": "sangeethashanmugam",
+  "language": "English"
+},{
+  "_id": {
+    "$oid": "63f64630514a3b288d5a8846"
+  },
+  "name": "Rahul",
+  "id": 3,
+  "Batch": "B40WE",
+  "mentor": "Levish",
+  "language": "English"
+},{
+  "_id": {
+    "$oid": "63f7019e7ee3db955224a049"
+  },
+  "id": 4,
+  "users": "Manoj",
+  "codekata": "7.5",
+  "batch": "BWD39",
+  "Language": "English",
+  "attendence": 0.8
+},{
+  "_id": {
+    "$oid": "63f706217ee3db955224a04a"
+  },
+  "id": 5,
+  "users": "Suresh",
+  "codekata": "6.5",
+  "batch": "BWD40",
+  "Language": "Hindi",
+  "attendence": 0.9
+},{
+  "_id": {
+    "$oid": "63f706447ee3db955224a04b"
+  },
+  "id": 6,
+  "users": "Het",
+  "codekata": "8.5",
+  "batch": "BWD40",
+  "Language": "English",
+  "attendence": 0.9
+},{
+  "_id": {
+    "$oid": "63f7066e7ee3db955224a04c"
+  },
+  "id": 7,
+  "users": "Manish",
+  "codekata": "5.5",
+  "batch": "BWD40",
+  "Language": "English",
+  "attendence": 0.5
+},{
+  "_id": {
+    "$oid": "63f7090efeb1c0b9644c867e"
+  },
+  "id": 8,
+  "users": "Rakesh",
+  "codekata": "7.5",
+  "batch": "BWD40",
+  "Language": "English",
+  "attendence": 0.8,
+  "mentor": "Sangeetha mam",
+  "Topic": "Java"
+},{
+  "_id": {
+    "$oid": "63f70945feb1c0b9644c867f"
+  },
+  "id": 9,
+  "users": "Rakesh",
+  "codekata": "7.5",
+  "batch": "BWD40",
+  "Language": "English",
+  "attendence": 0.8,
+  "mentor": "Sangeetha mam",
+  "Topic": "Java"
+},{
+  "_id": {
+    "$oid": "63f70950feb1c0b9644c8680"
+  },
+  "id": 10,
+  "users": "Rakesh",
+  "codekata": "7.5",
+  "batch": "BWD40",
+  "Language": "English",
+  "attendence": 0.8,
+  "mentor": "Sangeetha mam",
+  "Topic": "Java"
+},{
+  "_id": {
+    "$oid": "63f70955feb1c0b9644c8681"
+  },
+  "id": 11,
+  "users": "Rakesh",
+  "codekata": "7.5",
+  "batch": "BWD40",
+  "Language": "English",
+  "attendence": 0.8,
+  "mentor": "Sangeetha mam",
+  "Topic": "Java"
+}]
