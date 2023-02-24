@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "63f8f86312ada8ab3f696c75"
+  },
+  "attendance": "50%"
+},{
+  "_id": {
+    "$oid": "63f8f88212ada8ab3f696c76"
+  },
+  "attendance": "80%"
+}]
